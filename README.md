@@ -178,12 +178,9 @@ dracky@security-lab:~$ logout
 Connection to security-lab closed.
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=SECURE%20THE%20FUTURE&fontSize=45&fontAlignY=65&desc=Driven%20by%20Curiosity%20%26%20Persistence&descAlignY=82&descAlign=62"/>
 
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://github.com/drackyjr/drackyjr/blob/output/github-contribution-grid-snake-dark.svg" alt="Security Snake Animation" />
-</div>
+
