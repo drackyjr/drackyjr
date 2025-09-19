@@ -133,7 +133,7 @@ class SecurityResearcher:
 | 🎖️ **Achievement** | 📅 **Timeline** | 🔥 **Focus Area** |
 |---|---|---|
 | **ALl India Rank 14** | 2024 | NEC IIT Bombay |
-| **Top 4** | 2026 | Try Hack Me |
+| **Global Top 4** | 2026 | Try Hack Me |
 | **Security Projects** | Ongoing | Real-world Application Development |
 
 </div>
@@ -146,7 +146,6 @@ class SecurityResearcher:
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dracky4u.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranavbpawar)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Dracky4u)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Dracky4u)
 
 </div>
