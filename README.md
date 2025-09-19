@@ -1,3 +1,2 @@
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=drackyjr)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=drackyjr&theme=transparent&hide_border=true&exclude_days=Mon&type=png)](https://git.io/streak-stats)
