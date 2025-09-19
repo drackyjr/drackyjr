@@ -7,7 +7,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Cybersecurity Illustration">
 
-### 🔐 **Cybersecurity Researcher & Ethical Hacker** 🔐
+
 ### 💀 **"Securing Digital Systems, One Vulnerability at a Time"** 💀
 
 </div>
