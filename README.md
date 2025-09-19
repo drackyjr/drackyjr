@@ -126,16 +126,15 @@ class SecurityResearcher:
 
 ---
 
-## 🏆 **ACHIEVEMENTS & CERTIFICATIONS**
+## 🏆 **ACHIEVEMENTS**
 
 <div align="center">
 
 | 🎖️ **Achievement** | 📅 **Timeline** | 🔥 **Focus Area** |
 |---|---|---|
-| **CEH Preparation** | 2025 | Ethical Hacking Fundamentals |
-| **OSCP Target** | 2026 | Advanced Penetration Testing |
+| **ALl India Rank 14** | 2024 | NEC IIT Bombay |
+| **Top 4** | 2026 | Try Hack Me |
 | **Security Projects** | Ongoing | Real-world Application Development |
-| **Blockchain Research** | Current | DeFi & Smart Contract Security |
 
 </div>
 
