@@ -4,12 +4,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&height=100&lines=Welcome+to+the+Digital+Frontier...;I+am+DRACKY;Cybersecurity+Researcher;Ethical+Hacker;Blockchain+Explorer;Security+Systems+Architect)](https://git.io/typing-svg)
 
 ```ascii
-    ██████╗ ██████╗  █████╗  ██████╗██╗  ██╗██╗   ██╗
-    ██╔══██╗██╔═══██╗██╔══██╗██╔════╝██║  ██║██║   ██║
-    ██║  ██║██████╔╝███████║██║     █████╔╝ ██║   ██║  
-    ██║  ██║██╔══██╗██╔══██║██║     ██╔═██╗ ██║   ██║
-    ██████╔╝██║  ██║██║  ██║╚██████╗██║  ██╗╚██████╔╝
-    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝ ╚═════╝
+ ____                 _          
+|  _ \ _ __ __ _  ___| | ___   _ 
+| | | | '__/ _` |/ __| |/ / | | |
+| |_| | | | (_| | (__|   <| |_| |
+|____/|_|  \__,_|\___|_|\_\\__, |
+                           |___/ 
 ```
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Cybersecurity Illustration">
