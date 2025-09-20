@@ -132,9 +132,9 @@ class SecurityResearcher:
 
 | 🎖️ **Achievement** | 📅 **Timeline** | 🔥 **Focus Area** |
 |---|---|---|
-| **ALl India Rank 14** | 2024 | NEC IIT Bombay |
+| **ALL India Rank 14** | 2024 | NEC IIT Bombay |
 | **Global Top 4** | 2026 | Try Hack Me |
-| **Security Projects** | Ongoing | Real-world Application Development |
+| **Projects** | Ongoing | Real-world Application Development |
 
 </div>
 
