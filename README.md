@@ -20,7 +20,7 @@
 dracky@security-lab:~$ cat about.txt
 ```
 
-**I am Dracky actually my real name is pranav**, a **Computer Engineering student** deeply immersed in the realms of **cybersecurity**, **Backend Devlopment**, and **blockchain research**. With hands-on experience in building security projects, configuring network systems and exploring advanced attack-defense techniques, I thrive at the intersection of **technology and innovation**.
+**I am Dracky actually my real name is pranav**, a **Computer Engineering student** deeply immersed in the realms of **cybersecurity**, **Backend Devlopment** and **AI & blockchain research**. With hands-on experience in building projects, configuring network systems and exploring advanced attack-defense techniques, I thrive at the intersection of **technology and innovation**.
 
 Driven by **curiosity and persistence**, I aim to contribute to securing digital systems while continuously expanding my knowledge and skills in the ever-evolving world of cybersecurity.
 
