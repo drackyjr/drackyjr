@@ -65,26 +65,7 @@ Current Mission: Defending the Digital Realm
 ![Followers](https://img.shields.io/github/followers/drackyjr?style=for-the-badge&color=red&label=FOLLOWERS)
 ![Stars](https://img.shields.io/github/stars/drackyjr?style=for-the-badge&color=red&label=TOTAL+STARS)
 
-</div>
 
----
-
-<div align="center">
-
-### 💀 **"Curiosity and Persistence: The Hacker's Greatest Weapons"** 💀
-### 🔥 **Securing Tomorrow's Digital World, Today** 🔥
-
-```bash
-dracky@security-lab:~$ echo "Thanks for exploring my digital arsenal!"
-Thanks for exploring my digital arsenal!
-dracky@security-lab:~$ echo "Let's connect and secure the future together!"
-Let's connect and secure the future together!
-dracky@security-lab:~$ logout
-Connection to security-lab closed.
-```
-
-
-</div>
 
 ---
 
