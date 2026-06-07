@@ -20,9 +20,7 @@
 dracky@security-lab:~$ cat about.txt
 ```
 
-**I am Dracky actually my real name is pranav**, a **Computer Engineer** deeply immersed in the realms of **cybersecurity**, **Backend Devlopment** and **AI & blockchain research**. With hands-on experience in building projects, configuring network systems and exploring advanced attack-defense techniques, I thrive at the intersection of **technology and innovation**.
-
-Driven by **curiosity and persistence**, I aim to contribute to securing digital systems while continuously expanding my knowledge and skills in the ever-evolving world of cybersecurity.
+**I am Dracky actually my real name is pranav**
 
 ```bash
 dracky@security-lab:~$ echo "Current Mission: Defending the Digital Realm"
@@ -31,29 +29,7 @@ Current Mission: Defending the Digital Realm
 
 ---
 
-## 🛠️ **TECHNICAL ARSENAL**
 
-<div align="center">
-
-### **Programming & Scripting**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### **Cybersecurity & Ethical Hacking**
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-
-### **Blockchain & Security Research**
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-
-### **Infrastructure & Monitoring**
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
 
 
 
