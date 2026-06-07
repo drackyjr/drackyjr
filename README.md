@@ -20,12 +20,6 @@
 dracky@security-lab:~$ cat about.txt
 ```
 
-**I am Dracky actually my real name is pranav**
-
-```bash
-dracky@security-lab:~$ echo "Current Mission: Defending the Digital Realm"
-Current Mission: Defending the Digital Realm
-```
 
 ---
 
