@@ -12,7 +12,7 @@
 
 </div>
 
-
+---
 ## **GITHUB ACTIVITY**
 
 <div align="center">
@@ -20,7 +20,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=drackyjr&color=red&style=for-the-badge&label=PROFILE+VIEWS)
 ![Stars](https://img.shields.io/github/stars/drackyjr?style=for-the-badge&color=red&label=TOTAL+STARS)
 
-
+---
 
 ---
 
