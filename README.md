@@ -19,7 +19,29 @@
 ```bash
 dracky@security-lab:~$ cat about.txt
 ```
+I'm a passionate Cybersecurity and Linux enthusiast with a strong interest in ethical hacking, network security, cloud infrastructure, and open-source technologies. I enjoy building practical solutions that solve real-world problems using Python, Bash, and Linux.
 
+Interested in Cybersecurity, Ethical Hacking, and Blockchain Security
+Linux & Open Source Enthusiast
+Exploring Cloud Computing and Infrastructure Automation
+Building security and automation tools with Python and Bash
+Hands-on experience with networking concepts such as TCP/IP, DNS, DHCP, VPN, Routing, and Firewalls
+Currently working on projects related to trust-based security systems, Linux automation, and endpoint monitoring
+Tech Stack
+
+Languages: Python, Bash, C, Java (Learning)
+Operating Systems: Linux (Garuda OS, Ubuntu, Kali Linux)
+Domains: Cybersecurity, Networking, Linux Administration, Cloud, Automation
+Tools & Technologies: Git, GitHub, Docker, Flask, Supabase, OpenVPN, Wireshark, Nmap
+
+What You'll Find Here
+Cybersecurity and Linux projects
+Automation scripts and utilities
+Learning resources and technical notes
+Open-source experiments and research
+Connect With Me
+
+I'm always eager to learn, collaborate, and contribute to meaningful open-source and cybersecurity projects. Feel free to explore my repositories and connect with me.
 
 ---
 
