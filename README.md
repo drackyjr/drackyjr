@@ -24,34 +24,25 @@ dracky@security-lab:~$ cat about.txt
 
 ## About Me
 
-I'm a passionate **Cybersecurity and Linux enthusiast** with a strong interest in **ethical hacking, network security, cloud infrastructure, and open-source technologies**. I enjoy building practical solutions that solve real-world problems using **Python, Bash, and Linux**.
+I'm a passionate Technology Researcher, Cybersecurity and Linux & Open-Source Advocate with a strong interest in Research, ethical hacking and workflow automation.
 
-- Interested in Cybersecurity, Ethical Hacking, and OT Security
-- Linux & Open Source Enthusiast
-- Exploring Cloud Computing and Infrastructure Automation
-- Building security and automation tools with Python and Bash
-- Hands-on experience with networking concepts such as TCP/IP, DNS, DHCP, VPN, Routing, and Firewalls
-- Currently working on projects related to trust-based security systems, Linux automation, and endpoint monitoring
+I enjoy researching emerging technologies, understanding how systems work, identifying security challenges and building practical solutions using Python, Linux and automation tools. My focus is on combining research, security and automation to solve real-world technical problems.
 
-## Tech Stack
-
-**Languages:** Python, Bash  
-**Operating Systems:** Linux (Arch)  
-**Domains:** Cybersecurity, Networking, Cloud, Automation  
-**Tools & Technologies:** Git, GitHub, Docker, Flask, Supabase, OpenVPN, Wireshark, Nmap
 
 ## What You'll Find Here
 
-- Automation scripts and utilities
-- Open-source experiments and research
----
-<div align="center">
+- Cybersecurity research and technical experiments
 
-![Profile Views](https://komarev.com/ghpvc/?username=drackyjr&color=00F7FF&style=for-the-badge&label=PROFILE+VIEWS)
+- OSINT tools and intelligence-gathering utilities
 
-![GitHub Stars](https://img.shields.io/github/stars/drackyjr?style=for-the-badge&color=00F7FF&label=TOTAL+STARS)
+- Python and Bash automation scripts
 
-</div>
+- Linux tools, configurations and system utilities
+
+- Security testing and networking projects
+
+- Workflow automation and open-source experiments
+
 
 ---
 ## **GITHUB ACTIVITY**
