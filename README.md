@@ -44,7 +44,15 @@ I'm a passionate **Cybersecurity and Linux enthusiast** with a strong interest i
 
 - Automation scripts and utilities
 - Open-source experiments and research
+---
 
+<div align="center">
+
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Researcher;OSINT+%26+Security+Automation;Linux+%26+Open+Source+Enthusiast)](https://git.io/typing-svg)
+
+</div>
 
 
 ---
