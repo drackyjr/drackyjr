@@ -45,14 +45,13 @@ I'm a passionate **Cybersecurity and Linux enthusiast** with a strong interest i
 - Automation scripts and utilities
 - Open-source experiments and research
 ---
-
 <div align="center">
 
-<!-- TryHackMe profile badge script (GitHub README does not execute scripts) -->
-<script src="https://tryhackme.com/badge/t/9d800728239e6e71e0c2c6440b823aa1c9c196361aa411bd9406c2d82de473bb2964d9b5e286b58d204a507cf6179158?theme=dark"></script>
+![Profile Views](https://komarev.com/ghpvc/?username=drackyjr&color=00F7FF&style=for-the-badge&label=PROFILE+VIEWS)
+
+![GitHub Stars](https://img.shields.io/github/stars/drackyjr?style=for-the-badge&color=00F7FF&label=TOTAL+STARS)
 
 </div>
-
 
 ---
 ## **GITHUB ACTIVITY**
