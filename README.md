@@ -48,9 +48,8 @@ I'm a passionate **Cybersecurity and Linux enthusiast** with a strong interest i
 
 <div align="center">
 
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Researcher;OSINT+%26+Security+Automation;Linux+%26+Open+Source+Enthusiast)](https://git.io/typing-svg)
+<!-- TryHackMe profile badge script (GitHub README does not execute scripts) -->
+<script src="https://tryhackme.com/badge/t/9d800728239e6e71e0c2c6440b823aa1c9c196361aa411bd9406c2d82de473bb2964d9b5e286b58d204a507cf6179158?theme=dark"></script>
 
 </div>
 
