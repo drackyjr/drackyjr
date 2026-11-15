@@ -24,7 +24,7 @@ dracky@security-lab:~$ cat about.txt
 
 ## About Me
 
-I'm a passionate Technology Researcher, Cybersecurity and Linux & Open-Source Advocate with a strong interest in Research, ethical hacking and workflow automation.
+Hiii, I'm a passionate Technology Researcher, Cybersecurity and Linux & Open-Source Advocate with a strong interest in Research, ethical hacking and workflow automation.
 
 I enjoy researching emerging technologies, understanding how systems work, identifying security challenges and building practical solutions using Python, Linux and automation tools. My focus is on combining research, security and automation to solve real-world technical problems.
 
